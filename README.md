@@ -58,4 +58,11 @@ After completing the initial configuration, a VirtualBox snapshot (Backup) was c
 
 ## Problems Encountered
 ## Problem 1. Android Bootup  
-After completing the Android VM setup, I encountered a boot-related issue where the virtual machine became unresponsive and remained stuck during the initial startup sequence. The issue was resolved by increasing the allocated RAM, disabling 3D acceleration, and increasing the number of virtual CPU cores assigned to the VM.
+After completing the Android VM setup, I encountered a boot-related issue where the virtual machine became unresponsive and remained stuck during the initial startup sequence. The issue was resolved by increasing the allocated RAM, disabling 3D acceleration, and increasing the number of virtual CPU cores assigned to the VM.  
+
+## Tools and Resources
+
+- 7-Zip: https://7-zip.org/download.html
+- VirtualBox: https://virtualbox.org/wiki/Downloads
+- Kali Linux: https://kali.org/get-kali
+- https://www.android-x86.org/download
