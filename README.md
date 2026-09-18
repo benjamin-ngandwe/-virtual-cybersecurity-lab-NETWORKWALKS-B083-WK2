@@ -79,6 +79,9 @@ After completing the Android VM setup, I encountered a boot-related issue where 
 **6. dnsrecon -d**
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/dns%20recon.png?raw=true)  
 
+## What I learned  
+The lab uses six built-in Kali Linux tools—WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, and DNSRecon—to gather different types of information about the target. The combined findings provide a basic profile that will support future scanning and authorized security testing. All results should be recorded for use in the final report.
+
 ## Tools and Resources
 
 - 7-Zip: https://7-zip.org/download.html
