@@ -51,4 +51,8 @@ Adapter 1
 **Configure the Android Network**  
 The Android network configuration was checked and configured with a static IPv4 address.
 
-![image alt]()
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/android%20network.png?raw=true)
+
+## Create a Clean VM Snapshot
+After completing the initial configuration, a VirtualBox snapshot (Backup) was created.
+
