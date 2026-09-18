@@ -65,4 +65,12 @@ After completing the Android VM setup, I encountered a boot-related issue where 
 - 7-Zip: https://7-zip.org/download.html
 - VirtualBox: https://virtualbox.org/wiki/Downloads
 - Kali Linux: https://kali.org/get-kali
-- https://www.android-x86.org/download
+- Android: https://www.android-x86.org/download
+
+- ## Author
+**Benjamin Ng'andwe**    
+Cybersecurity Professional B083  
+LinkedIn: https://www.linkedin.com/in/ngandwebenji/
+
+## Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
