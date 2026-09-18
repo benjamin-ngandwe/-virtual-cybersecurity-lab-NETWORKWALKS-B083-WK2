@@ -30,5 +30,6 @@ Adapter 1
 The VM was allocated 2048 MB RAM.
 
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/0992ffddceef8e3f9f4b0320470303b5ea110927/Win10.png)
-## Configure the Windows 10 Network  
+
+**Configure the Windows 10 Network**  
 The Windows 10 network configuration was checked and configured with a static IPv4 address.
