@@ -64,6 +64,21 @@ After completing the Android VM setup, I encountered a boot-related issue where 
 **1. Whois**
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/whois.png?raw=true)
 
+**2. Whatweb**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/whatweb.png?raw=true)
+
+**3. Wafw00f**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/wafw00f.png?raw=true)
+
+**4. nslookup**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/nslookup.png?raw=true)
+
+**5. curl -I**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/curl.png?raw=true)
+
+**6. dnsrecon -d**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/dns%20recon.png?raw=true)  
+
 ## Tools and Resources
 
 - 7-Zip: https://7-zip.org/download.html
