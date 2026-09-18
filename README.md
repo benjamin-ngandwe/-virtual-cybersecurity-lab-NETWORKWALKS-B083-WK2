@@ -50,3 +50,5 @@ Adapter 1
 
 **Configure the Android Network**  
 The Android network configuration was checked and configured with a static IPv4 address.
+
+![image alt]()
