@@ -48,5 +48,5 @@ Adapter 1
 
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/android%20dashboard.png?raw=true)
 
-**Configure the Android Network** 
+**Configure the Android Network**  
 The Android network configuration was checked and configured with a static IPv4 address.
