@@ -19,3 +19,4 @@ The purpose of this lab is to gather information about the live website networkw
 Additional target machines can be added to the same virtual network in future projects.
 ## Lab Configuration
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/lab%20setup.png?raw=true)
+## Lab Setup Procedure
