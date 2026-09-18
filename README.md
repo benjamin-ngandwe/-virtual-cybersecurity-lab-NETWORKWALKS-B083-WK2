@@ -28,3 +28,5 @@ Adapter 1
 - Network:     NatNetwork  
 
 The VM was allocated 2048 MB RAM.
+
+![image alt]()
