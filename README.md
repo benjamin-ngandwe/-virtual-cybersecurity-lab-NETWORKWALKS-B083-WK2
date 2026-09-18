@@ -21,7 +21,7 @@ Additional target machines can be added to the same virtual network in future pr
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/lab%20setup.png?raw=true)
 ## Lab Setup Procedure
 **Install Windows 10**  
-The Windows 10 virtual machine was downloaded installed in VirtualBox.  
+The Windows 10 virtual machine was downloaded and installed in VirtualBox.  
 The VM network adapter was configured as follows:  
 Adapter 1  
 - Attached to: NAT Network  
@@ -39,3 +39,5 @@ The Windows 10 network configuration was checked and configured with a static IP
 ## Create a Clean VM Snapshot
 After completing the initial configuration, a VirtualBox snapshot (Backup) was created.
 
+**Install Android**  
+The Android virtual machine was downloaded and installed in VirtualBox.
