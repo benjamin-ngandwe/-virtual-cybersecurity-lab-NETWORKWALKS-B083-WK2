@@ -36,3 +36,6 @@ The Windows 10 network configuration was checked and configured with a static IP
 
 ![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/Win10%20network.png?raw=true)
 
+## Create a Clean VM Snapshot
+After completing the initial configuration, a VirtualBox snapshot (Backup) was created.
+
