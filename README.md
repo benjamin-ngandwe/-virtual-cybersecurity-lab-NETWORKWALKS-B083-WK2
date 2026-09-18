@@ -67,7 +67,7 @@ After completing the Android VM setup, I encountered a boot-related issue where 
 - Kali Linux: https://kali.org/get-kali
 - Android: https://www.android-x86.org/download
 
-- ## Author
+## Author
 **Benjamin Ng'andwe**    
 Cybersecurity Professional B083  
 LinkedIn: https://www.linkedin.com/in/ngandwebenji/
