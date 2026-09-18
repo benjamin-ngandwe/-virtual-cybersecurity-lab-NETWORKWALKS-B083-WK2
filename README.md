@@ -3,16 +3,11 @@ VirtualBox and Kali Linux lab environment for penetration testing, vulnerability
 ## Project Overview
 This project focuses on setting up a virtual cybersecurity and penetration-testing lab using VirtualBox and Kali Linux.
 ## Objectives
-- Install virtual box and Kali Linux
-- Configure NAT Network
-- Assign static IP address on Kali Linux VM
-- Test network connectivity and DNS resolution
-- Take a snapshot of the VM
 - Install Android and Windows 10 VMs
 - Assign static IPs on Windows 10 and Android VMs
 - Test connectivity and DNS resolution
 - Take a snapshot of the VMs
-- Document the process
-- Create a Penetration Testing Report
+- Install Zenmap on Windows 10 VM for network scanning
+- Footprint the live website networkwalks.com using six built-in Kali Linux tools
 ## Purpose of Lab
-The lab provides a safe, isolated, and controlled environment for learning cybersecurity concepts and carrying out authorized security testing. It can be used to practice network reconnaissance, port scanning, vulnerability assessment, packet analysis, web security testing, exploitation techniques, and experimenting with different cybersecurity tools.
+The purpose of this lab is to gather information about the live website networkwalks.com using six Kali Linux tools: WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, and DNSRecon. Each tool provides different information about the target, helping to build a basic security profile. The findings will be used in later tasks for scanning, security testing, and reporting.
