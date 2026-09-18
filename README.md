@@ -62,6 +62,7 @@ After completing the Android VM setup, I encountered a boot-related issue where 
 
 ## Screenshots of six Kali Linux tools  
 **1. Whois**
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/whois.png?raw=true)
 
 ## Tools and Resources
 
