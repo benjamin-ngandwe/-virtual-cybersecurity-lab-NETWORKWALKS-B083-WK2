@@ -45,3 +45,5 @@ The VM network adapter was configured as follows:
 Adapter 1  
 - Attached to: NAT Network  
 - Network:     NatNetwork  
+
+![image alt]()
