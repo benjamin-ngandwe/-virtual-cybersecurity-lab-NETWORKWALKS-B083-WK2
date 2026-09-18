@@ -23,6 +23,6 @@ Additional target machines can be added to the same virtual network in future pr
 **Install Windows 10** 
 The Windows 10   virtual machine was downloaded installed in VirtualBox.  
 The VM network adapter was configured as follows:  
-Adapter 1
-Attached to: NAT Network
-Network:     NatNetwork
+Adapter 1  
+- Attached to: NAT Network  
+- Network:     NatNetwork
