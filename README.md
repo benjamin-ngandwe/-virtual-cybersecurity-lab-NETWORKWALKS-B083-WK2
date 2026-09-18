@@ -46,4 +46,4 @@ Adapter 1
 - Attached to: NAT Network  
 - Network:     NatNetwork  
 
-![image alt]()
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/android%20dashboard.png?raw=true)
