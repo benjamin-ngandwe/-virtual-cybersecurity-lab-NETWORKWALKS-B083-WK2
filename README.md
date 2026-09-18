@@ -25,5 +25,5 @@ The Windows 10 virtual machine was downloaded installed in VirtualBox.
 The VM network adapter was configured as follows:  
 Adapter 1  
 - Attached to: NAT Network  
-- Network:     NatNetwork
+- Network:     NatNetwork  
 The VM was allocated 2048MB RAM.
