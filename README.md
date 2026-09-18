@@ -73,4 +73,4 @@ Cybersecurity Professional B083
 LinkedIn: https://www.linkedin.com/in/ngandwebenji/
 
 ## Project Information
-Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: FOOTPRINTING & RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS | Repository: GitHub
