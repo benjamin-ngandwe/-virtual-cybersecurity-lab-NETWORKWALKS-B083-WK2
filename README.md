@@ -15,4 +15,4 @@ The purpose of this lab is to gather information about the live website networkw
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ## Lab Architecture
-![image alt]()
+![image alt](https://github.com/benjamin-ngandwe/-virtual-cybersecurity-lab-NETWORKWALKS-B083-WK2/blob/main/lab%20arch.jpg?raw=true)
